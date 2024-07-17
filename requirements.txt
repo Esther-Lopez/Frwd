@@ -2,3 +2,7 @@ pyrofork
 motor
 TgCrypto
 Dnspython
+
+flask
+gunicorn==20.1.0
+aiohttp==3.8.2
